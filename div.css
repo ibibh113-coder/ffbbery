@@ -1,0 +1,18 @@
+/* style="background-color: #FFF4A3;"
+style="background-color: #FFC0C7;"
+style="background-color: #D9EEE1;" */
+div{
+    background-color: #FFF4A3;
+}
+div{
+    background-color: #FFC0C7;
+}
+div{
+    background-color: #D9EEE1;
+}
+body{
+    .grid-container {
+            display: grid;
+            grid-template-columns: 33% 33% 33%;
+    }
+}
